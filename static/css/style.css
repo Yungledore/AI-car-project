@@ -543,3 +543,9 @@ input[type="color"] {
     flex-direction: column;
   }
 }
+.form-error {
+  min-height: 1.25rem;
+  color: #fca5a5;
+  font-size: .94rem;
+  margin: .5rem 0 0;
+}
